@@ -12,15 +12,6 @@ This Java Chat Room Application is a simple yet effective real-time communicatio
 ### Prerequisites
 - Java Development Kit (JDK) installed on your system.
 
-### Accessing the Repo/Files
-1. Clone the repository:
-   
-   `git clone https://github.com/Simon-Blamo/Java-Chat-Room.git`
-
-2. Navigate to the Java Chat Room directory:
-
-   `cd Java-Chat-Room`
-
 ### Running the Server
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing the Server.java file.
