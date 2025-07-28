@@ -13,7 +13,7 @@ This is a simple Java program that simulates a basic two-way chat between a serv
 - A terminal or command prompt
 
 ### Steps
-**1**.1Open your terminal.
+**1**.Open your terminal.
 **2**.Compile the file:
         javac Main.java
 **3**.Run the program:
@@ -25,7 +25,7 @@ This is a simple Java program that simulates a basic two-way chat between a serv
 **6**.Type exit to stop the chat.
 
 ### Files Included
-Main.java – contains the full code for both server and client modes in one file.
+  Main.java – contains the full code for both server and client modes in one file.
 
 ### Disclaimer
 - This is a basic simulation, not a real network-based chat system.
